@@ -46,4 +46,5 @@ A package for measuring and reporting web performance metrics.
 Note: The project is built with specific versions of the listed dependencies. Make sure to refer to the package.json file for the exact versions used.
 
 
-![Uploading bandicam 2023-08-10 11-56-39-781.gif…]()
+
+![bandicam 2023-08-10 11-56-39-781](https://github.com/maria-bytes/Material_Tailwind_Portfolio/assets/130628510/8b65194a-746b-4086-8eff-3a76eedea301)
